@@ -1,4 +1,4 @@
-# Frostwood: A Pixel Adventure
+# ❄️ Frostwood: A Pixel Adventure
 
 ![Frostwood Gameplay](start.png "Frostwood Gameplay Screenshot")
 
@@ -6,18 +6,18 @@
 
 ---
 
-## Features
+## ✨ Features
 
-- **Original Art and Animation**: Enjoy a captivating, frosty environment crafted with pixel art, along with smooth animations built frame-by-frame. Including visual assets were created by hand to bring a unique style to the game.
-- **Engaging Gameplay**: Experience challenging platforming mechanics, with intricate puzzles and dynamic enemies designed to keep players engaged.
-- **Character Abilities**: Execute a range of actions, including basic movements, attacks, and environmental interactions, all brought to life through custom animations and detailed animator configurations.
-- **Comprehensive Scripting**: All gameplay elements, from damage mechanics and collectible items to enemy behaviors and camera control are powered by custom-written scripts.
+- 🎨 **Original Art and Animation**: Enjoy a captivating, frosty environment crafted with pixel art, along with smooth animations built frame-by-frame. Including visual assets were created by hand to bring a unique style to the game.
+- 🎮 **Engaging Gameplay**: Experience challenging platforming mechanics, with intricate puzzles and dynamic enemies designed to keep players engaged.
+- 🕹️ **Character Abilities**: Execute a range of actions, including basic movements, attacks, and environmental interactions, all brought to life through custom animations and detailed animator configurations.
+- 🛠️ **Comprehensive Scripting**: All gameplay elements, from damage mechanics and collectible items to enemy behaviors and camera control are powered by custom-written scripts.
 
 ---
 
-## Controls
+## 🎮 Controls
 
-| Action        | Key/Button          |
+| **Action**    | **Key/Button**      |
 |---------------|---------------------|
 | Move          | Arrow Keys or `W/A/D`|
 | Jump          | Up Arrow or `W`     |
@@ -26,7 +26,7 @@
 
 ---
 
-## Installation
+## 🛠️ Installation
 
 1. **Download the Game**:
    - Go to the [Releases](https://github.com/annied11/Frostwood/releases) section of this repository.
@@ -43,30 +43,29 @@
 
 ---
 
-## How to Play
+## 🕹️ How to Play
 
-- Guide your character through a challenging environment, skillfully avoiding obstacles and confronting enemies.
-- Collect **all diamonds** within each level to unlock the path forward.
-- Gather **mushrooms** strategically to restore health as needed.
-- Contribute all collected diamonds at the final checkpoint to successfully complete the game.
-
----
-
-## Development Tools
-
-- **Engine**: Unity
-- **Programming Language**: C#
-- **Graphics**: Custom 2D assets
-- **Audio**: [Audio](https://github.com/annied11/Frostwood/Assets/Audio)
+- 🏃 **Navigate**: Guide your character through a challenging environment, skillfully avoiding obstacles and confronting enemies.
+- 💎 **Collectables**: Collect **all diamonds** within the range to unlock the path forward; Gather **mushrooms** strategically to restore health as needed.
+- 🏆 **Win the Game**: Contribute all collected diamonds at the final checkpoint to successfully complete the game.
 
 ---
 
-## Contributing & Contact
+## 🔧 Development Tools
 
-Interested in contributing to Frostwood? Feel free to fork this repository and submit a pull request with your improvements or suggestions. We welcome you to provide any questions or feedbacks to [Annie](mailto:anniedwy03@gmail.com) :)
+- 🖥️ **Engine**: Unity
+- 🧑‍💻 **Programming Language**: C#
+- 🎨 **Graphics**: Custom 2D assets
+- 🎵 **Audio**: [Audio](https://github.com/annied11/Frostwood/Assets/Audio)
 
 ---
 
-## License
+## 🤝 Contributing & Contact
+
+Interested in contributing to Frostwood? Feel free to fork this repository and submit a pull request with your improvements or suggestions. We welcome you to provide any questions or feedback to [Annie](mailto:anniedwy03@gmail.com) :)
+
+---
+
+## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
